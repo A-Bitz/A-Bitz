@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Ensemble Learning, , Multi-Cloud**
 
- 💬 Ask me about **Node.js, Python,Java, Firebase, MongoDB... or anything [here](https://github.com/A-Bitz/A-Bitz/issues)**
+ 💬 Ask me about **Node.js, Python, Java, Firebase, MongoDB... or anything [here](https://github.com/A-Bitz/A-Bitz/issues)**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
