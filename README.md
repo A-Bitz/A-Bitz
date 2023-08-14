@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Face recognition**
+ 🔭 I’m currently working on **AI-IOT**
  
  🌱 I’m currently learning **Ensemble Learning, , Multi-Cloud**
 
