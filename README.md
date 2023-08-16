@@ -42,10 +42,9 @@
     <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,c,java" /><br>
     <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git" />
 </div>
-
 <br/>
 <hr/>
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7097429085609459712" height="443" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
